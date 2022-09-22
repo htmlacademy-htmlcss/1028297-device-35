@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Артем Лаптев](https://up.htmlacademy.ru/htmlcss/35/user/1028297).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Котов](https://htmlacademy.ru/profile/evgeniy_kotov).
 
 ---
 
